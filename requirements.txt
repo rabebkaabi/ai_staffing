@@ -1,0 +1,49 @@
+# API
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# Google Gemini / ADK
+google-generativeai
+google-adk
+
+# RAG
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# PDF / documents parsing
+pypdf
+python-multipart
+python-docx
+oracledb
+
+pdfplumber
+python-docx
+pandas
+openpyxl
+
+# Vector similarity
+scikit-learn
+numpy
+scipy
+
+# Oracle database
+oracledb
+
+# MCP server
+httpx
+
+# Utils
+tqdm
+pandas
+
+# Dev tools
+python-dotenv
+
+

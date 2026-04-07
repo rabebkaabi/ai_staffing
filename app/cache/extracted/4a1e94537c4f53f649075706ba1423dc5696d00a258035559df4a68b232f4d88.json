@@ -1,0 +1,127 @@
+{
+  "text": "[SHEET: RFP ODDO BHF]\nUnnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5\n \n Procurement REF: 15_2025 \n Job Title System Administrator \n Job Title's Detail OpenShift Administrator \n Department IT Infrastructure & IT Operations \n \n Company Name \n Identifier of profile \n Answer date \n Nb years of experience\\nexcl intershipts / etc \n \n Answer established with the candidate \n Reason for the termination of the last experience \n Feedback/reference of previous client \n \n Freelance / Employee \n If freelance, how many years have you (the company) worked with the freelance ? \n Daily rate( €/d excl. taxes) \n \n \n Context The OpenShift platform is already installed and operational across production, pre-production, and development environments.\\nThe priority is to strengthen operations, improve reliability, and evolve the platform to higher levels of automation, observability, and security.\\n\\nThe administrator will play a key role in:\\n- Stabilizing and optimizing existing clusters\\n- Defining and implementing best practices\\n- Migration to Bar Metal environment\\n- Driving platform enhancements and upgrades\\n- Ensuring compliance with organizational and regulatory requirements \n Matching assessment\n Background Profile experience must meet the minimal requirements: Input a value from 0 (min) to 3 (max)\n Experience in Linux systems administration and containerized environments 0..1\n Solid hands-on expertise in running and managing Kubernetes/OpenShift clusters 0..3\n Strong experience in critical production environments 0..3\n \n Detailed roles Expectations Matching assessment\n \n Ensure the availability, stability, and performance of OpenShift clusters 0..0\n Manage user access, quotas, namespaces, and related resources 0..3\n Lead and support the migration to bare metal environment 0..3\n Implement and maintain monitoring, observability, and logging solutions 0..3\n Enforce and improve security policies 0..3\n Contribute to cluster upgrades, enhancements, and lifecycle management 0..3\n \n Education Bac +5 graduated input the name and year of graduation\n \n Expected skills Knowledge foundation \n OpenShift (administration, operators, networking, storage, monitoring) 0..3\n Kubernetes (core resources, architecture) 0..3\n Linux systems (RHEL or equivalent) 0..3\n Networking (TCP/IP, load balancer, DNS, ingress) 0..3\n Security (certificates, RBAC, policies, vulnerability scanning) 0..3\n CI/CD integration with OpenShift Pipelines 0..3\n Observability tools (Prometheus, Grafana …) 0..3\n \n Skills foundation \n English proficiency 0..3\n Git and GitOps practices (ArgoCD, FluxCD) 0..3\n Advanced troubleshooting (logs, metrics, network and application debugging) 0..3\n Cluster upgrades and security patching 0..3\n \n Mindset foundation \n Pedagogy, good communication 0..3\n Reliability and resilience-oriented mindset 0..3\n Strong collaboration with developers, ops, and security teams 0..3\n Ability to work autonomously and make decisions during incidents 0..3\n \n Optional bonus criterias \n Red Hat Certified Specialist in OpenShift Administration 0..3\n Experience designing and operating multi-cluster architectures 0..3\n Familiarity with public cloud providers (AWS, Azure, GCP) 0..3\n Experience in migration on bare metal infrastructure 0..3\n \n Estimated duration of the mission 1 year \n \n Start date Q4 2025 input the estimated starting date\n \n \n Workplace\\n- \\nRemote work 5 Rue du General Leclerc, Clichy la Garenne \n \n \n \n \n \n \n \n \n \n 0\n 1\n 2\n 3\n\n[SHEET: Refs]\nUnnamed: 0 match score answers Unnamed: 3 Job Title Unnamed: 5 Department Unnamed: 7 Freelance / Employee\n 0.0 yes Desktop Engineer Digital Worplace Freelance\n 1.0 no Expert IT Business Verticals Employee\n 2.0 IT Business Support Infrastructure & IT Operations \n 3.0 Database Administrator Software Development Factory & Architecture \n System Administrator Transversal Functions \n Technician \n Production engineer \n Network Administrator \n Application Integration Administrator \n IT Business Analyst \n IT Architect \n Developer \n IT PMO \n IT Project Manager \n IT Governance officer",
+  "skills": [
+    {
+      "name": "OpenShift",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Kubernetes",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Linux",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Networking",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Security",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "CI/CD",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Observability",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "English",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Git",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "GitOps",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Troubleshooting",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Cluster Management",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Pedagogy",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Communication",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Collaboration",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Autonomy",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Incident Management",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Multi-cluster Architecture",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Cloud Computing",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Bare Metal Infrastructure",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Containerization",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Architecture Design",
+      "type": "technical",
+      "family": "MOE"
+    }
+  ],
+  "tasks": {
+    "tasks": [
+      "Assurer la disponibilité, la stabilité et l'optimisation des clusters OpenShift",
+      "Définir et implémenter les meilleures pratiques",
+      "Mener et supporter la migration vers un environnement Bare Metal",
+      "Contribuer aux évolutions, aux mises à niveau et à la gestion du cycle de vie de la plateforme",
+      "Assurer la conformité aux exigences organisationnelles et réglementaires",
+      "Gérer l'accès des utilisateurs, les quotas, les namespaces et les ressources associées",
+      "Implémenter et maintenir les solutions de monitoring, d'observabilité et de logging",
+      "Appliquer et améliorer les politiques de sécurité"
+    ]
+  }
+}

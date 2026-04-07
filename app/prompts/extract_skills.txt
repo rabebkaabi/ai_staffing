@@ -1,0 +1,26 @@
+Tu es un expert en recrutement, en profils de conseil et en taxonomies de compétences en entreprise.
+
+Ta mission :
+Extraire toutes les compétences présentes dans le document ci-dessous.
+
+Règles :
+- Extraire à la fois les compétences techniques et fonctionnelles
+- Ne pas classifier la famille pour le moment
+- Ne pas inventer de compétences
+- Conserver uniquement les compétences pertinentes et significatives
+- Retourner uniquement du JSON
+- Supprimer les doublons
+
+Format de sortie attendu :
+
+[
+  {
+    "name": "Python"
+  },
+  {
+    "name": "Agile"
+  }
+]
+
+Document :
+{document}

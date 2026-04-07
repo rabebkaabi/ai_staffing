@@ -1,0 +1,71 @@
+{
+  "text": "[SHEET: RFP ODDO BHF]\nUnnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5\n \n Procurement REF: 08_2025 \n Job Title IT Project Manager \n Job Title's Detail IT Asset Servicing Project Manager \n Company Name \n Identifier of profile \n Answer date \n Nb years of experience\\nexcl intershipts / etc \n \n Answer established with the candidate \n Reason for the termination of the last experience \n Feedback/reference of previous client \n \n Freelance / Employee \n If freelance, how many years have you (the company) worked with the freelance ? \n Daily rate( €/d excl. taxes) \n \n \n Context Au sein de la Direction des Services Informatiques (DSI) du groupe ODDO BHF, vous intégrerez l’équipe IT ASSET SERVICING qui accompagne le développement IT de l’offre commerciale de l’équipe ODDO BHF Asset Servicing.\\nPrestataire de services IT et back office depuis 2003 pour le compte de clients institutionnels (banques privées, conseillers en investissements financiers, sociétés de gestion privée, d’OPC et de Private Equity ainsi que de compagnies d'assurance)., ODDO BHF Asset Servicing propose des services de tenue de comptes, traitement des opérations, conservation des avoirs ainsi que d’autres services à valeur ajoutée.\\nGrâce au développement interne ODDO BHF de sa propre offre de logiciels Front et à l’expertise de ses équipes, ODDO BHF Asset Servicing propose des solutions sur mesure pour des clients exigeants. \n Matching assessment\n \n Detailed roles Expectations Matching assessment\n \n Centraliser les besoins IT dans le cadre des Appels d’Offre et être associé(e) à des projets Groupe 0..3\n Coordonner l’ensemble des équipes IT lors du process d’onboarding client (déploiement des outils, gestion des accès, ..) 0..3\n Avoir une connaissance de l’ensemble de l’architecture ODDO BHF pour maitriser les impacts 0..3\n Etablir une cartographie des clients et des différents setups d’onboarding 0..3\n \n Être force de proposition pour la mise en oeuvre de services complémentaires 0..3\n Être garant de la qualité des services fournis aux clients 0..3\n Être partie prenante des discussions autour de la stratégie de développement des outils mis à disposition des clients 0..3\n \n Education input the name and year of graduation\n \n Expected skills Knowledge foundation \n Connaissances du marché financier (chaine Front to Back) 0..3\n Anglais indispensable 0..3\n \n Skills & Mindset foundation \n Vous disposez d'un très bon esprit d'équipe et d’excellentes compétences relationnelles 0..3\n Capacité d’analyse, d’organisation et de curiosité sont clés 0..3\n Sens de la priorisation pour évoluer dans un environnement dynamique et exigeant 0..3\n \n \n 0..3\n 0..3\n 0..3\n 0..3\n 0..3\n \n Optional bonus criterias \n 0..3\n 0..3\n 0..3\n 0..3\n 0..3\n \n Estimated duration of the mission 1 year \n \n Start date asap input the estimated starting date\n \n \n Workplace\\n- \\nRemote work 2d / week IKO, rue Auboin Clichy \n Remote working 2d/week \n \n International business travel supported by Oddo, average stays of 2-3 days: \n · Tunisia : Tunis (frequency to be defined) \n \n \n \n \n \n \n \n \n \n 0\n 1\n 2\n 3\n\n[SHEET: Refs]\nUnnamed: 0 match score answers Unnamed: 3 Job Title Unnamed: 5 Department Unnamed: 7 Freelance / Employee\n 0.0 yes Desktop Engineer Digital Worplace Freelance\n 1.0 no Expert IT Business Verticals Employee\n 2.0 IT Business Support Infrastructure & IT Operations \n 3.0 Database Administrator Software Development Factory & Architecture \n System Administrator Transversal Functions \n Technician \n Production engineer \n Network Administrator \n Application Integration Administrator \n IT Business Analyst \n IT Architect \n Developer \n IT PMO \n IT Project Manager \n IT Governance officer",
+  "skills": [
+    {
+      "name": "Marché financier",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Chaîne Front to Back",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Anglais",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Esprit d'équipe",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Compétences relationnelles",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Capacité d'analyse",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Organisation",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Curiosité",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Priorisation",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Architecture IT",
+      "type": "technical",
+      "family": "MOA"
+    }
+  ],
+  "tasks": {
+    "tasks": [
+      "Centraliser les besoins IT",
+      "Coordonner les équipes IT",
+      "Gérer le process d'onboarding client",
+      "Déployer des outils",
+      "Gérer les accès",
+      "Maîtriser les impacts sur l'architecture IT",
+      "Établir une cartographie des clients",
+      "Établir une cartographie des setups d'onboarding",
+      "Proposer des services complémentaires",
+      "Garantir la qualité des services clients",
+      "Participer à la stratégie de développement des outils"
+    ]
+  },
+  "cache": "miss"
+}

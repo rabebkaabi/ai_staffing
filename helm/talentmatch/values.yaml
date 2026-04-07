@@ -1,0 +1,26 @@
+replicaCount: 1
+
+image:
+  repository: talentmatch-ai
+  tag: latest
+  pullPolicy: IfNotPresent
+
+# Valeur par défaut (sera écrasée par le --set)
+geminiModel: "gemini-2.5-flash"
+existingSecret: "talentmatch-secret"
+
+service:
+  type: ClusterIP
+  port: 80
+  targetPort: 8000
+
+ingress:
+  enabled: true
+  className: "nginx"
+  annotations: 
+    kubernetes.io/ingress.class: nginx
+  hosts:
+    - host: talentmatch.local
+      paths:
+        - path: /
+          pathType: Prefix

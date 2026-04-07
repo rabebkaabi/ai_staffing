@@ -1,0 +1,73 @@
+{
+  "text": "Contexte de la mission\nDans le cadre de sa mission, la TSI TRESORERIE a en charge les études liées aux SI trésorerie de la direction des actifs passifs (DPAP) du groupe Covéa.\nDétails de la prestation\nAu cours de sa mission, le consultant sera amené à prendre en charge, pour la direction des actifs passifs les travaux suivants :\nL’étude du Système de trésorerie unique de Covea.\nLe groupe Covea est issu du regroupement des marques GMF, MAAF et MMA ayant historiquement chacune leur propre SI de trésorerie.\nL’objectif de l’étude est d’analyser l’existant et de challenger les besoins du groupe afin de proposer une solution cible pour converger vers un SI trésorerie commun aux trois marques.\nA ce titre le consultant :\nMet en place et anime les instances du projet\nAnalyse l’existant et challenge les besoins\nRédige les livrables de l’étude\nMet en place et suit le planning validé par la Direction Projet\nEn parallèle des études, le consultant sera amené à suivre et piloter certaines évolutions inscrites au plan 2022 de la TSI Investissements.\nSavoir-faire :\nBonne connaissance du domaine de la trésorerie\nPilotage de projets complexes ou de portefeuilles de projets sur un domaine métier\nSuivi des charges et coûts par rapport à un budget\nEtudes de faisabilité, cadrage\nTâches MOA sur tout le process projet (EDB, CDC, études d’impacts, recette, conduite du changement)\nExpériences demandées :\nUne expérience de transformation SI sur le domaine trésorerie .\nDisponibilité : ASAP",
+  "skills": [
+    {
+      "name": "Trésorerie",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Gestion de projet",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Gestion budgétaire",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Étude de faisabilité",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Cadrage projet",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Expression de besoins",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Rédaction de cahier des charges",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Analyse d'impact",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Recette fonctionnelle",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Conduite du changement",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Transformation SI",
+      "type": "functional",
+      "family": "MOA"
+    }
+  ],
+  "tasks": {
+    "tasks": [
+      "Étudier le Système de Trésorerie unique",
+      "Analyser l'existant",
+      "Challenger les besoins",
+      "Proposer une solution cible SI",
+      "Mettre en place et animer les instances projet",
+      "Rédiger les livrables d'étude",
+      "Mettre en place et suivre le planning projet",
+      "Suivre et piloter les évolutions SI"
+    ]
+  },
+  "cache": "miss"
+}

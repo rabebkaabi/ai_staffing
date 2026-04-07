@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  talentmatch-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: talentmatch-api
+    ports:
+      - "8000:8000"
+    env_file:
+      - app/.env
+    volumes:
+      - ./app/storage:/app/app/storage
+      - ./app/cache:/app/app/cache
+    restart: always

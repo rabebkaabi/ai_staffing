@@ -1,0 +1,247 @@
+{
+  "text": "MAI 2022 A AUJOURD’HUI : SWISSLIFE FRANCE, FRANCE\nEn FREELANCE – NEOGEN CONSULTING\nChef de projet MOA – COORDINATION VIE :\nInterventions :\nPilotage de projet\nDéfinition du parcours de souscription\nAnimation des cérémonies AGILE (Sprint planning, daily, sprint review et rétro)\nConception et gestion du backlog (Création des épics, US, T/US, Bugs)\nRédaction des spécifications fonctionnelles\nCréation du swagger API\nParamétrage\nRédaction de la stratégie et du cahier de tests\nConduite de changement\nProjets ou évolutions :\nProjet de refonte SI : Mise en place du prélèvement à la source sur les contrats PACTE\nFiscalité de sortie partielle ou totale du PER individuel et collectif, Madelin et ART 83\nProcessus de demande du taux PAS à la DGFIP et les règles d’application\nDéclaration PASRAU mensuel\nDéclaration DFPR\nDéclaration IFU\nProjet de refonte SI : Mise en place de la sortie en capital fractionné sur les contrats PACTE\nFiscalité de sortie en capital fractionné du PER individuel (Compartiment des versements volontaires, Epargne salarial et versements obligatoires)\nCompatibilité de cette opération avec les autres actes de gestion ((Versement, arbitrage,\nchangement d’allocation et décès)\nProcessus de demande du taux PAS à la DGFIP et les règles d’application\nDéclaration PASRAU mensuel\nDéclaration DFPR\nDéclaration IFU\nDématérialisation des souscriptions PERECOI-PEI : Mise en place d’un parcours de souscription dématérialisé avec API dans le cadre d’un partenariat avec NATIXIS INTEREPARGNE\nSouscription des contrats PERECOI-PEI\nRègles d’éligibilité, d’abondement et des versements sur les produits\nLien SSO entre le portail apporteur et l’outil de souscription de NATIXIS « EASIRIS »\nSignature électronique\nTransmission de la métadonnée et des documents via API AWS (S3 BUCKET)\nEtude de la persistance dans l’outil de gestion SwissLife France\nMaintenance et évolution concernant le produit PERECOI-PEI :\nEvolution des flux CRE entre SwissLife France et NATIXIS (Adhésions, Versements (Volontaires, Intéressement, Participation, CET et abondement), arbitrages)\nEtude de surcommissionnement des variations des plans de prélèvements périodiques\nNormalisation des données entre les deux SI de SwissLife France et NATIXIS\nEvolutions des règles de gestion de traitement des actes de changement de profil\nMaintenance de la gestion du produit en collaboration avec le partenaire NATIXIS\nProjet de refonte SI : Mise en place d’une nouvelle option sur les contrats EPARGNE,\nCAPITALISATION et RETRAITE – Investissement progressif\nMise en place sur l’allocation libre des contrats EPARGNE, CAPITALISATION et RETRAITE\nMise en place sur l’allocation pilotage retraite des contrats PER en cas de transfert entrant\nImpact de cette option sur les autres actes de gestion (Versement, arbitrage, rachat et décès)\nProjet de refonte SI : Modernisation du module de maintenance des clients\nRevue des IHM de saisie, de modification et de consultation des personnes physiques et morales\nRéécriture des règles de gestion du module (Définition des données obligatoires vs facultatives à la création et à la modification, normalisation des champs de saisie, revue des critères de consultation…)\nBascule du nouveau module vers une nouvelle base de données et reprise du stock des clients\nProjet de refonte des règles de gestion au niveau du portail : Evolution des règles de calcul des profils d’investissement des contrats Epargne et retraite\nDéfinition des règles de calcul du profil d’investissement des contrats EPARGNE et RETRAITE\nà la souscription ou en vie de contrat (versement ou arbitrage)\nDéfinition des règles de la volatilité à prendre en compte pour chaque support ou grille de pilotage\nProjet de refonte des règles de gestion au niveau du portail : Evolution des règles d’éligibilité des opérations en fonction du type des supports\nDéfinition des règles d’éligibilité des opérations d’investissement ou de désinvestissement en\nfonction du type de support (FCPR, FCPE, SCPI/SCI/SC, ETF, Monétaire…)\nProjet de refonte des règles de gestion au niveau du portail : Loi industrie verte –\nIntégration des critères de durabilité dans le parcours de souscription\nIntroduction des nouvelles questions Durabilité dans le questionnaire de Devoir De Conseil en souscription\nMise en place d’une fonctionnalité de Loopback renvoyant au questionnaire durabilité si le client souhaite modifier ses préférences avec enregistrement de la dernière version de réponses\nAjout des critères de durabilité au niveau de la base de données des UC\nProjet Editique : Génération automatique des avenants des fonds spécifiques\nMise en place de processus de création automatique des avenants\nDéfinition des règles de gestion pour chaque type d’avenant (UC structurées et autres types\nd’UC comme SCPI, FCPR, OPCI…)\nGénération des avenants via API pour intégration dans le parcours dématérialisé des opérations\nNOVEMBRE 2019 AU DECEMBRE 2021 : GROUPE LE CONSERVATEUR, FRANCE\nSeabird Conseil : Octobre 2017 au Mars 2022\nChef de projet MOA Gestion :\nProjet de refonte SI : Mise en place d’un portail de gestion des contrats (Souscription, Versement, Arbitrage, options de gestion et Rachat)\nPilotage de projet\nRédaction des expressions de besoins\nRédaction des spécifications fonctionnelles\nParamétrage\nRédaction des cahiers de tests\nConduite de changement\nSuivi et évolutions des applications :\nSuivi des évolutions et gestion des incidents\nRecueil et rédaction des expressions de besoins\nPilotage et suivi de la mise en œuvre avec la DSI\nPilotage de la recette\nConduite du changement auprès des utilisateurs\nOptimisation de certains processus existants\nMAI 2018 A OCTOBRE 2019 : GROUPE MALAKOFF HUMANIS (EX MALAKOFF MEDERIC), FRANCE\nSeabird Conseil : Octobre 2017 au Mars 2022\nChef de projet MOA : Projet de refonte SI : Graph Talk AIA\nParticipation aux ateliers de définition des processus métiers (Contrats / Cotisations / Santé / Prévoyance)\nAnimation des ateliers d’expression de besoin éditique auprès des métiers.\nRédaction des expressions besoins (Courriers / évolutions processus…).\nAnimation des ateliers et validation des spécifications fonctionnelles.\nAnimation des comités de suivi\nSuivi du chantier et recette des livraisons SI.\nAnalyse d’impacts de la fusion des instituts de prévoyance (Malakoff Médéric et Humanis)\nRemonte des risques / des alertes\nAnalyse du périmètre des courriers à mettre en place dans le nouveau SI et la rationalisation des pratiques entre les différents sites de gestion.\nPilotage du chantier de dématérialisation\nOCTOBRE 2017 A AVRIL 2018 : MISSION CHEZ GIE AUXIA (GROUPE MALAKOFF MEDERIC), FRANCE\nSeabird Conseil : Octobre 2017 au Mars 2022\nConsultant chargé d’études et de développement :\nTraitement des problématiques liées au sujet réglementaire FICOVIE\nDéclarations / passage de batchs et analyses anomalies\nRéintégration des identités corrigées dans le système\nStabilisation et automatisation des processus de déclarations FICOVIE.\nSpécifications techniques pour l’automatisation du processus de calcul des PM (Etude et\ndeveloppement)\nRecette des solutions techniques\nAnalyse des produits d’assurance vie\nSEPTEMBRE 2016 A AOUT 2017 : RTE RESEAU DE TRANSPORT D'ÉLECTRICITE, FRANCE\nAssistant analyste financier :\nAnalyse financière : analyse d’un portefeuille de valeurs (industrielles et acteurs de marché), évaluation du profil de risque, suivi des notations de contreparties, développement d’outil de suivi ;\nÉvaluation et suivi du risque de contrepartie clients : réalisation de reportings et d’études du risque, animation du comité du risque de contreparties (trimestriel), développement d’outil de contrôle du risque, actions de due diligence know your Customer (KYC) ;\nSuivi de la conjoncture économique et financière : recherche d’informations sectorielles et\nmacroéconomiques, élaboration de prévisions ;\nÉlaborer des rapports de synthèse écrits, destinés aux clients.\nSEPTEMBRE 2015 A AOUT 2016 : RTE RESEAU DE TRANSPORT D'ÉLECTRICITE, FRANCE\nApprenti Assistant Contrôleur de gestion :\nMise en place et tenue d'un tableau de bord d'indicateurs comptables : (de performance, de volumétrie).\nGarantir la fiabilité des données de reporting, financier et non financier – analyser les écarts et proposer des actions correctives,\nSupervision et coordination des projets destinés aux auditeurs externes et aux évaluations des examinateurs\nParticipation aux processus de due-diligence avec les commissaires aux comptes\nJUIN 2015 A AOUT 2015 : COCA-COLA, MAROC\nStage : Assistant Chef Pôle Comptabilité\nPréparation des états financiers et organisation mensuelle des procédures de clôture des comptes\nAnalyse des comptes de bilan mensuels pour rédiger des rapports destinés à la direction\nRecherche et analyse des problèmes de reporting pour améliorer les procédures d'opérations comptables\nEntretien avec les clients pour identifier et résoudre les paiements en attente\n2017 : Master Grande Ecole, NEOMA Business School (ex. ESC Rouen), Corporate Finance\n2020 : Certification Dale Carnegie : Communication & Leadership\n2020 : Certification MANITUDE : Concevoir et Animer une action de formation\nBenchmark Comment optimiser la performance de l’activité d’unités de compte ?\nRédaction de l’article Réussir son projet de mise en place d’un outil de gestion d’actifs intégré front to back\nRédaction de l’article Prêt-emprunt de titres : quelles sont les bonnes pratiques ?\nDécryptage des principaux enjeux des opérations de prêt de titres\nAnglais : Courant\nFrançais et Arabe : Langue maternelle\nSport Football et Tennis\nVolontariat dans une association humanitaire\nMusique\nVoyages",
+  "skills": [
+    {
+      "name": "Agile",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Pilotage de projet",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Gestion du backlog produit",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Rédaction spécifications fonctionnelles",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Conduite du changement",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Stratégie et cahier de tests",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Paramétrage applicatif",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Analyse des besoins métier",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Animation d'ateliers",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Analyse d'impact",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Optimisation des processus",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Gestion des règles métier",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Recette fonctionnelle",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Communication",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Leadership",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Conception et animation de formation",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Fiscalité Assurance",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Produits d'épargne et retraite",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Réglementation financière",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Analyse financière",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Gestion des risques financiers",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Comptabilité",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Contrôle de gestion",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Support audit",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "UX/UI Design (fonctionnel)",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Développement API (Swagger)",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Intégration API",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "AWS S3",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "SSO",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Signature électronique",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Migration de données",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Normalisation de données",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Rédaction spécifications techniques",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Développement logiciel",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Base de données",
+      "type": "technical",
+      "family": "MOE"
+    },
+    {
+      "name": "Anglais",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Français",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Arabe",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Benchmarking",
+      "type": "functional",
+      "family": "MOA"
+    },
+    {
+      "name": "Rédaction professionnelle",
+      "type": "functional",
+      "family": "MOA"
+    }
+  ],
+  "tasks": {
+    "tasks": [
+      "Piloter des projets",
+      "Définir des parcours de souscription",
+      "Animer des cérémonies Agile",
+      "Concevoir et gérer des backlogs produit",
+      "Rédiger des spécifications fonctionnelles",
+      "Créer des spécifications d'API (Swagger)",
+      "Effectuer le paramétrage applicatif",
+      "Rédiger la stratégie et les cahiers de tests",
+      "Mener des actions de conduite du changement",
+      "Mettre en œuvre des évolutions SI réglementaires (ex: prélèvement à la source, fiscalité PER)",
+      "Dématérialiser des processus métiers (ex: souscriptions, avenants)",
+      "Intégrer des systèmes d'information (API, SSO)",
+      "Analyser et réviser les règles de gestion métier",
+      "Moderniser des modules applicatifs (ex: IHM client)",
+      "Analyser les impacts de changements (ex: fusion, nouvelles options)",
+      "Suivre les évolutions et gérer les incidents applicatifs",
+      "Recueillir et formaliser les expressions de besoins",
+      "Piloter la recette fonctionnelle",
+      "Optimiser des processus métiers",
+      "Animer des ateliers et des comités de suivi",
+      "Gérer les risques et les alertes projet",
+      "Assurer la conformité réglementaire (ex: FICOVIE, finance durable)",
+      "Automatiser des processus (ex: déclarations, calculs, création de documents)",
+      "Rédiger des spécifications techniques",
+      "Réaliser la recette technique des solutions",
+      "Analyser des produits d'assurance vie et des produits financiers",
+      "Réaliser des analyses financières (portefeuille, risque, conjoncture)",
+      "Évaluer et suivre le risque de contrepartie clients",
+      "Élaborer des rapports de synthèse et des reportings",
+      "Mettre en place et maintenir des tableaux de bord comptables",
+      "Garantir la fiabilité des données de reporting financier",
+      "Coordonner des projets avec des auditeurs externes",
+      "Préparer des états financiers et organiser les clôtures de comptes",
+      "Analyser des comptes de bilan",
+      "Améliorer les procédures comptables",
+      "Concevoir et animer des sessions de formation",
+      "Réaliser des études de benchmarking",
+      "Rédiger des articles professionnels et des rapports d'études"
+    ]
+  }
+}

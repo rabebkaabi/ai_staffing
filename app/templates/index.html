@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TalentMatch AI API</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="icon" href="/static/logo.png">
+</head>
+<body>
+    <div class="layout">
+        <aside class="sidebar">
+            <div class="brand">
+                <img src="/static/logo.png" class="logo" alt="logo">
+                <span>TalentMatch AI</span>
+            </div>
+
+            <button class="new-chat-btn">Nouvelle analyse</button>
+
+            <nav class="menu">
+                <a href="#" id="tab-simple-btn">Analyse simple</a>
+                <a href="#" id="tab-batch-btn">Batch ranking</a>
+                <a href="/docs">Swagger</a>
+            </nav>
+        </aside>
+
+        <main class="main">
+            <header class="header">
+                <h1>AI Staffing Assistant</h1>
+            </header>
+
+            <section id="tab-simple" class="tab-section active">
+                <h2>Analyse simple</h2>
+
+                <div id="result-box" class="result-box">
+                    <p>Charge un CV et un AO, puis pose une question.</p>
+                </div>
+
+                <form id="analyze-form" class="input-zone">
+                    <div class="file-row">
+                        <label class="file-label">
+                            Upload CV
+                            <input type="file" id="cv_file" name="cv_file" accept=".pdf,.docx,.xlsx,.xls,.txt" required>
+                        </label>
+
+                        <label class="file-label">
+                            Upload AO
+                            <input type="file" id="ao_file" name="ao_file" accept=".pdf,.docx,.xlsx,.xls,.txt" required>
+                        </label>
+                    </div>
+
+                    <textarea
+                        id="question"
+                        name="question"
+                        placeholder="Pose ta question : score de matching, compétences manquantes, profil MOA/MOE..."
+                    ></textarea>
+
+                    <div class="actions-row">
+                        <button type="submit" class="send-btn">Analyser</button>
+                    </div>
+                </form>
+            </section>
+
+            <section id="tab-batch" class="tab-section">
+                <h2>Batch ranking candidats</h2>
+
+                <div id="batch-result-box" class="result-box">
+                    <p>Charge un AO et plusieurs CV pour obtenir un classement.</p>
+                </div>
+
+                <form id="batch-form" class="input-zone">
+                    <div class="file-row">
+                        <label class="file-label">
+                            Upload AO
+                            <input type="file" id="batch_ao_file" name="batch_ao_file" accept=".pdf,.docx,.xlsx,.xls,.txt" required>
+                        </label>
+
+                        <label class="file-label">
+                            Upload CVs
+                            <input type="file" id="batch_cv_files" name="batch_cv_files" accept=".pdf,.docx,.xlsx,.xls,.txt" multiple required>
+                        </label>
+                    </div>
+
+                    <div class="actions-row">
+                        <button type="submit" class="send-btn">Lancer le ranking</button>
+                        <button type="button" id="export-csv-btn" class="send-btn secondary-btn">Exporter CSV</button>
+                    </div>
+                </form>
+
+                <div class="table-wrapper">
+                    <table id="ranking-table">
+                        <thead>
+                            <tr>
+                                <th>Nom</th>
+                                <th>Prénom</th>
+                                <th>Profil</th>
+                                <th>Compétences</th>
+                                <th>Tâches</th>
+                                <th>Écarts</th>
+                                <th>Score</th>
+                                <th>Rang</th>
+                                <th>Décision IA</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

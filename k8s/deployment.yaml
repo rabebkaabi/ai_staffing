@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: talentmatch-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: talentmatch
+  template:
+    metadata:
+      labels:
+        app: talentmatch
+    spec:
+      containers:
+        - name: talentmatch-api
+          image: talentmatch-ai:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8000
+          envFrom:
+            - secretRef:
+                name: talentmatch-secret

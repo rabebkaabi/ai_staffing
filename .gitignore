@@ -1,0 +1,8 @@
+adk-env/
+venv/
+.env
+__pycache__/
+*.pyd
+*.dll
+*.so
+.vscode/
